@@ -1,0 +1,1 @@
+This is an experimental project using django rest framework as the backend. For the frontend, I used react.js. Together I merged these two technologies to create a simple contacts / phonebook application.
